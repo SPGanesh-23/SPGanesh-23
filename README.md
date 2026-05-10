@@ -254,9 +254,9 @@ Co-authored research applying **Natural Language Processing** to perform large-s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SPGanesh-23&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SPGanesh-23&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPGanesh-23&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPGanesh-23&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&cache_seconds=1800"/>
 
 <br/><br/>
 
