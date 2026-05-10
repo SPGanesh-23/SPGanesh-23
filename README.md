@@ -254,9 +254,9 @@ Co-authored research applying **Natural Language Processing** to perform large-s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreepranavaganesh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SPGanesh-23&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreepranavaganesh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPGanesh-23&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3"/>
 
 <br/><br/>
 
@@ -264,7 +264,7 @@ Co-authored research applying **Natural Language Processing** to perform large-s
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreepranavaganesh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=fbbf24&area=true&hide_border=true&area_color=312e81" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SPGanesh-23&bg_color=0d1117&color=a78bfa&line=7c3aed&point=fbbf24&area=true&hide_border=true&area_color=312e81" width="90%"/>
 
 </div>
 
