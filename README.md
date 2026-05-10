@@ -41,10 +41,6 @@
 <!--                      ABOUT — THE ORIGIN STORY                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:312e81&height=3&section=header" width="60%"/>
-</div>
-
 <br/>
 
 ```python
