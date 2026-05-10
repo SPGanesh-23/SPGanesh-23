@@ -12,8 +12,6 @@
 
 <br/>
 
-<img src="pfp.jpeg" width="150px" style="border-radius:50%;border:3px solid #7c3aed;"/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ANIMATED TAGLINE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -40,6 +38,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ABOUT — THE ORIGIN STORY                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:312e81&height=3&section=header" width="60%"/>
+</div>
 
 <br/>
 
