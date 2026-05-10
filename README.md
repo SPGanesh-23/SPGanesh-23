@@ -19,7 +19,7 @@
 <!-- Profile views + social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SPGanesh-23&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreepranava-ganesh-n-r-3738aa36b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-pranava-ganesh-n-r-3738aa36b)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SPGanesh-23@gmail.com)
 &nbsp;
@@ -332,7 +332,7 @@ Co-authored research applying **Natural Language Processing** to perform large-s
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreepranava-ganesh-n-r-3738aa36b)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-pranava-ganesh-n-r-3738aa36b)
 &nbsp;
 [![Email](https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SPGanesh-23@gmail.com)
 
