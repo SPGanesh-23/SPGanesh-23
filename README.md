@@ -260,7 +260,7 @@ Co-authored research applying **Natural Language Processing** to perform large-s
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreepranavaganesh&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=fbbf24&currStreakLabel=e2d9f3&sideLabels=e2d9f3&dates=9d8ec7" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPGanesh-23&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=fbbf24&currStreakLabel=e2d9f3&sideLabels=e2d9f3&dates=9d8ec7" width="65%"/>
 
 <br/><br/>
 
