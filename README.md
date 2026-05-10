@@ -7,6 +7,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHREE%20PRANAVA%20GANESH&fontSize=42&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Builder%20%E2%80%A2%20Researcher&descAlignY=58&descSize=18&descColor=9d8ec7" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      PROFILE PICTURE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="pfp.jpeg" width="150px" style="border-radius:50%;border:3px solid #7c3aed;"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ANIMATED TAGLINE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
