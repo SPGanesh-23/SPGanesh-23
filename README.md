@@ -17,13 +17,13 @@
 <br/>
 
 <!-- Profile views + social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=shreepranavaganesh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SPGanesh-23&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreepranava-ganesh-n-r-3738aa36b)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreepranavaganesh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SPGanesh-23@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreepranavaganesh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPGanesh-23)
 
 </div>
 
@@ -136,7 +136,7 @@ SolarVision is a full-stack ML application that forecasts solar power output by 
 
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge)
 &nbsp;
-[![View Project](https://img.shields.io/badge/View%20Project-→-7c3aed?style=for-the-badge)](https://github.com/shreepranavaganesh)
+[![View Live](https://img.shields.io/badge/View%20Live%20↗-solarvision--1m1b.onrender.com-22c55e?style=for-the-badge)](https://solarvision-1m1b.onrender.com)
 
 <br/>
 
@@ -334,7 +334,7 @@ Co-authored research applying **Natural Language Processing** to perform large-s
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreepranava-ganesh-n-r-3738aa36b)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreepranavaganesh@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SPGanesh-23@gmail.com)
 
 <br/>
 
